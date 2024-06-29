@@ -57,23 +57,22 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: "" + b64data });
 
                let SIGMA_MD_TEXT = `
+🄳🄾🄽🅃 🅂🄷🄴🅁🄴 🄸🄳               
 ┏━━━━━━━━━━━━━━
-┃MASTER MD SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED ✅🔥
+┃𝐃𝐀𝐑𝐊 𝐒𝐇𝐀𝐃𝐎𝐖 𝐌𝐃 😈😈
+┃𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘
+┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ✅
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = Sahan / MASTER MIND_👨🏻‍💻
+① || 𝒄𝒓𝒆𝒂𝒕𝒐𝒓 = 𝑷𝒂𝒕𝒉𝒖𝒎 𝑴𝒂𝒍𝒔𝒂𝒓𝒂
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M
+② || 𝑾𝒉𝒂𝒕𝒔𝒂𝒑 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 = https://whatsapp.com/channel/0029VacTVYIGOj9kr0GJzR1r
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/+94720797915
+③ || 𝒔𝒖𝒑𝒑𝒐𝒓𝒕 𝒈𝒓𝒐𝒖𝒑 = https://chat.whatsapp.com/L1gqdGgYN4D6vAeT4Cj2Y6
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || INSTAGRAM = https://www.instagram.com/sahanmaduwantha2006?igsh=YzljYTk1ODg3Zg==
+④ || 𝑶𝒘𝒏𝒆𝒓 = https://wa.me/+94773416478
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || FaceBook = https://www.facebook.com/profile.php?id=100089180711131
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱᴀʜᴀɴ ᴏꜰᴄ`
+𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑫𝒂𝒓𝒌 𝑺𝒉𝒂𝒅𝒐𝒘 𝒐𝒇𝒄`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
